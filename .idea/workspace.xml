@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hse-python-backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-1/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw-1/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="hw-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +39,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,14 +60,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729370627812</updated>
       <workItem from="1729370629251" duration="5307000" />
-      <workItem from="1729375963992" duration="3402000" />
+      <workItem from="1729375963992" duration="3649000" />
     </task>
+    <task id="LOCAL-00001" summary="hw-1">
+      <option name="closed" value="true" />
+      <created>1729379480181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729379480181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-1" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729378938118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw-1/test" />
+    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729379430511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw-1/test" />
   </component>
 </project>
