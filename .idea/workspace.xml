@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="hw-1" />
+    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="hw-1">
+      <change afterPath="$PROJECT_DIR$/hw_2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/controllers/cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/controllers/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/services/cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/services/item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-1/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +42,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sleeter&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sleeter/hse-python-backend.git&quot;,
+    &quot;accountId&quot;: &quot;0e92b9d6-ed60-49e5-a8e3-35fcdd75c9a1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,7 +65,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test.test_get_cart.executor": "Run",
+    "Python tests.Python tests for test.test_get_cart_list.executor": "Run",
+    "Python tests.Python tests for test.test_get_item.executor": "Run",
+    "Python tests.Python tests for test.test_get_item_list.executor": "Run",
+    "Python tests.Python tests for test.test_patch_item.executor": "Run",
+    "Python tests.Python tests for test.test_post_cart.executor": "Run",
+    "Python tests.Python tests for test.test_post_item.executor": "Run",
+    "Python tests.Python tests for test.test_put_item.executor": "Run",
     "Python tests.Python tests in test.py.executor": "Run",
+    "Python.cart.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -43,6 +87,103 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw-2/models" />
+      <recent name="$PROJECT_DIR$/hw-2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.test_patch_item">
+    <configuration name="Python tests for test.test_get_item" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hse-python-backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_get_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_get_item_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hse-python-backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_get_item_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_patch_item" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hse-python-backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_patch_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_post_item" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hse-python-backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_post_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.test_put_item" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="hse-python-backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.test_put_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.test_patch_item" />
+        <item itemvalue="Python tests.Python tests for test.test_put_item" />
+        <item itemvalue="Python tests.Python tests for test.test_get_item_list" />
+        <item itemvalue="Python tests.Python tests for test.test_get_item" />
+        <item itemvalue="Python tests.Python tests for test.test_post_item" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +201,8 @@
       <option name="presentableId" value="Default" />
       <updated>1729370627812</updated>
       <workItem from="1729370629251" duration="5307000" />
-      <workItem from="1729375963992" duration="3649000" />
+      <workItem from="1729375963992" duration="8457000" />
+      <workItem from="1729680142527" duration="15579000" />
     </task>
     <task id="LOCAL-00001" summary="hw-1">
       <option name="closed" value="true" />
@@ -70,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729379480181</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hw-1">
+      <option name="closed" value="true" />
+      <created>1729379628455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729379628455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +231,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="hw-1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729379430511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw-1/test" />
+    <SUITE FILE_PATH="coverage/hse_python_backend$cart.coverage" NAME="cart Coverage Results" MODIFIED="1729787243633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw-2/controllers" />
+    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729793443203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_2/test" />
+    <SUITE FILE_PATH="coverage/hse_python_backend$main.coverage" NAME="main Coverage Results" MODIFIED="1729790263858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_2" />
   </component>
 </project>
