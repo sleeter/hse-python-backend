@@ -1,14 +1,14 @@
 # Homework 1
 
 ### To start server 
-```console
+```sh
 uvicorn hw_1.app:app
 ```
 
 # Homework 2-3
 
 ### To start app
-```console
+```sh
 docker compose -f hw_2/docker-compose.yml up
 ```
 ### Grafana dashboard
