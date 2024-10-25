@@ -12,4 +12,4 @@ uvicorn hw_1.app:app
 docker compose -f hw_2/docker-compose.yml up
 ```
 ### Grafana dashboard
-![Dashboard](https://github.com/sleeter/hse-python-backend/raw/master/dashboard.jpg)
+![Dashboard](https://github.com/sleeter/hse-python-backend/raw/master/hw_2/dashboard.jpg)
