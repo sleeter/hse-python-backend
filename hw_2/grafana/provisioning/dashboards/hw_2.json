@@ -18,7 +18,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 5,
+  "id": 1,
   "links": [],
   "panels": [
     {
@@ -275,19 +275,20 @@
     }
   ],
   "preload": false,
+  "refresh": "auto",
   "schemaVersion": 40,
   "tags": [],
   "templating": {
     "list": []
   },
   "time": {
-    "from": "2024-10-25T15:55:01.133Z",
-    "to": "2024-10-25T16:05:01.133Z"
+    "from": "now-5m",
+    "to": "now"
   },
   "timepicker": {},
   "timezone": "browser",
-  "title": "Dashboard for hs",
+  "title": "Dashboard for hse pyton course",
   "uid": "de1yai0r18074b",
-  "version": 2,
+  "version": 1,
   "weekStart": ""
 }
