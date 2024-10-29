@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="hw-3">
+    <list default="true" id="509967cf-2be2-41f5-9663-225ef041878b" name="Changes" comment="hw-2">
+      <change afterPath="$PROJECT_DIR$/hw_2/grafana/provisioning/datasources/prometheus_ds.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_2/prometheus/prometheus.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_2/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_2/prometheus/prometheus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/prometheus/prometheus.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,8 +190,7 @@
       <workItem from="1729370629251" duration="5307000" />
       <workItem from="1729375963992" duration="8457000" />
       <workItem from="1729680142527" duration="18261000" />
-      <workItem from="1729803115474" duration="2628000" />
-      <workItem from="1730212925051" duration="103000" />
+      <workItem from="1729803115474" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="hw-1">
       <option name="closed" value="true" />
@@ -213,15 +216,7 @@
       <option name="project" value="LOCAL" />
       <updated>1729793947856</updated>
     </task>
-    <task id="LOCAL-00004" summary="hw-3">
-      <option name="closed" value="true" />
-      <created>1729805019081</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1729805019081</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,12 +225,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw-1" />
     <MESSAGE value="hw-2" />
-    <MESSAGE value="hw-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hse_python_backend$cart.coverage" NAME="cart Coverage Results" MODIFIED="1729787243633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw-2/controllers" />
-    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729804832438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_2/test" />
+    <SUITE FILE_PATH="coverage/hse_python_backend$.coverage" NAME=" Coverage Results" MODIFIED="1729793443203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_2/test" />
     <SUITE FILE_PATH="coverage/hse_python_backend$main.coverage" NAME="main Coverage Results" MODIFIED="1729790263858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_2" />
   </component>
 </project>

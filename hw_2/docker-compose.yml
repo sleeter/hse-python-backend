@@ -11,7 +11,7 @@ services:
       - mynetwork
 
   prometheus:
-    image: prom/prometheus:v2.30.3
+    image: prom/prometheus:latest
     ports:
       - 9090:9090
     networks:
@@ -35,7 +35,7 @@ services:
       - prometheus
     restart: always
     volumes:
-      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources
+      - ./grafana/provisioning:/etc/grafana/provisioning
       - grafana-data:/var/lib/grafana
 
 networks:
